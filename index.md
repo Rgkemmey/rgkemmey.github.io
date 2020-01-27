@@ -5,6 +5,7 @@ Please explore my plays!
 ## 2018
 
 [Peter Pan](plays/2018/peter_pan.md)
+![Peter Pan Playbill]({{ site.url }}/plays/2018/peter_pan_playbill.jpg)
 
 ## 2019
 
