@@ -3,3 +3,6 @@ I was in the play The Jungle Book in May 2019. The Jungle Book is about a boy na
 
 ## My Character
 I acted as Mowgli in this play. Mowgli is the main protagonist and is human. Mowgli grew up in the jungle and was raised by wolves. All the cubs made fun of him. Mowgli ended up saving the jungle from the tiger Shere Khan. Mowgli is friends with baloo who teaches him all about the jungle and wolves. 
+
+## My Feelings
+My directors name was Amy Beach. She was really nice and funny. I acted with some of the kids who were in the Peter Pan play. I also made some new friends. This play wasn't for school like Peter Pan it was with a company called Stage Door Productions.Most of the people i worked with were really nice. They were all really good actors and were funny.
