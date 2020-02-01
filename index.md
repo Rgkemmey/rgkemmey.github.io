@@ -8,6 +8,10 @@ Please explore my plays!
 
 ## 2019
 
+[![The Jungle Book Playbill]({{ site.url }}/plays/2019/jungle_book_playbill.jpg)]({{ site.url }}/plays/2019/the_jungle_book.html)
+
+[![The Lion King Playbill]({{ site.url }}/plays/2019/lion_king_playbill.png)]({{ site.url }}/plays/2019/the_lion_king.html)
+
 [The Jungle Book](plays/2019/the_jungle_book.md)
 
 [The Lion King](plays/2019/the_lion_king.md)
